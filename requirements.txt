@@ -1,8 +1,0 @@
-streamlit==1.22.0
-mysql-connector-python==8.0.27
-cryptography==3.4.8
-keras-ocr==0.9.2
-matplotlib==3.7.1
-opencv-python-headless==4.7.0.72
-
-
